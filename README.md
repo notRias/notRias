@@ -13,9 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=notRias&count_private=true&theme=midnight-purple" />
 </a>
 </p>
-
-<br><br>
-
+<br>
 <p align="center"><a href="https://discord.gg/yE6CgQZzr2" >Join Discord</a></p>
 <p align="center"><a href="https://astronyia.xyz/" >Astronyia</a></p>
 <!--
