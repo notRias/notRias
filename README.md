@@ -9,9 +9,7 @@
 </p>
 <br>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=notRias&count_private=true&theme=midnight-purple" />
-</a>
 </p>
 <br>
 <p align="center"><a href="https://discord.gg/yE6CgQZzr2" >Join Discord</a></p>
