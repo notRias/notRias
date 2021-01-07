@@ -14,8 +14,8 @@
 </a>
 </p>
 
-> ["Astronyia"](https://astronyia.xyz/ "Astronyia")
-<p align="center"><a href="https://discord.gg/yE6CgQZzr2" >Join Discord</a></p></div>
+<p align="center"><a href="https://discord.gg/yE6CgQZzr2" >Join Discord</a></p>
+<p align="center"><a href="https://astronyia.xyz/" >Astronyia</a></p>
 <!--
 **notRias/notRias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
