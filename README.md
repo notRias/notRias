@@ -13,6 +13,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=notRias&count_private=true&theme=midnight-purple" />
 </a>
 </p>
+
+> ["Astronyia"](https://astronyia.xyz/ "Astronyia")
+<p align="center"><a href="https://discord.gg/yE6CgQZzr2" >Join Discord</a></p></div>
 <!--
 **notRias/notRias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
